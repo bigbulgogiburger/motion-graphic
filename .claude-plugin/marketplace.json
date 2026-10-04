@@ -1,0 +1,18 @@
+{
+  "name": "motion-graphic",
+  "owner": {
+    "name": "bigbulgogiburger"
+  },
+  "metadata": {
+    "description": "bigbulgogiburger's motion-graphic presentation skill for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "motion-graphic",
+      "source": "./",
+      "description": "말로 하는 발표를 모션그래픽 단일 HTML로 — 스타일 3종, 무대 엔진, 캡처 검사, 발표자 노트·타이밍표.",
+      "version": "1.0.0",
+      "category": "productivity"
+    }
+  ]
+}
